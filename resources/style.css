@@ -14,14 +14,14 @@
     color: white;
 }
 
-#subtitle.spring {
+#spring.subtitle {
     background-color: mediumspringgreen;
 }
 
-#subtitle.coral {
+#coral.subtitle {
     background-color: lightcoral;
 }
 
-#subtitle.skyblue {
+#skyblue.subtitle {
     background-color: skyblue;
 }
