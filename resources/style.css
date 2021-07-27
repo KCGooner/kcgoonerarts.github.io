@@ -12,16 +12,20 @@
     font-size: 32px;
     font-weight: bold;
     color: white;
+    background-color:mediumspringgreen ;
 }
 
-#spring {
-    background-color: mediumspringgreen;
+.subtitle.skye {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color:skyblue;
 }
-
-#coral {
-    background-color: lightcoral;
-}
-
-#skyblue {
-    background-color: skyblue;
+.subtitle.coral {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: coral;
 }
